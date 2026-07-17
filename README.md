@@ -4,8 +4,6 @@
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-oliveira-908027167/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/OIIGEUAKGRWQN1)
 
-![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=emerson998&show_icons=true&theme=dracula)
-
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline__block"></br>
