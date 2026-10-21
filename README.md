@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Solutis-Tech%20Lead-0ea5e9?style=for-the-badge&logo=target&logoColor=white" alt="Solutis · Tech Lead · 0ea5e9" />
 <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-Brasil%20%F0%9F%87%A7%F0%9F%87%B7-a855f7?style=for-the-badge" alt="São Paulo · Brasil 🇧🇷 · a855f7" />
 <img src="https://img.shields.io/github/followers/emerson998?style=for-the-badge&logo=github&color=0d1117&labelColor=0ea5e9" alt="Seguidores de emerson998 no GitHub" />
-<img src="https://komarev.com/ghpvc/?username=emerson998&style=for-the-badge&color=a855f7&label=VISITAS" alt="Visitas ao perfil de emerson998" />
 
 <br/><br/>
 
