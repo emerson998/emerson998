@@ -138,8 +138,8 @@ Agentes, integração com Claude CLI e Codex CLI, automação e revisão humana.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=emerson998&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=c9d1d9&ring_color=38bdf8&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de emerson998" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson998&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Linguagens mais usadas nos repositórios de emerson998" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=emerson998&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true" alt="Estatísticas do GitHub de emerson998" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=emerson998&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Linguagens mais usadas nos repositórios de emerson998" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=emerson998&hide_border=true&background=0d1117&ring=a855f7&fire=38bdf8&currStreakLabel=38bdf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="Sequência de contribuições de emerson998" />
 
